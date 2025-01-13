@@ -15,8 +15,8 @@ const Section1 = () => {
           </p>
         </div>
         <div className="mt-10 flex gap-5">
-          <button className="bg-primary rounded-xl p-3 w-48">Call Us Today</button>
-          <button className="bg-secondary rounded-xl p-2 w-48 text-black ">Request a Call Back</button>
+          <button className="bg-primary rounded-3xl p-3 w-48">Call Us Today</button>
+          <button className="bg-secondary rounded-3xl p-2 w-48 text-black ">Request a Call Back</button>
         </div>
       </div>
     </div>
