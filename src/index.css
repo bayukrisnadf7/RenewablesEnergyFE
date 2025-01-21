@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.custom-pagination {
+    text-align: center;
+    margin-top: 20px; /* Atur jarak */
+  }
+  
+  .custom-pagination .swiper-pagination-bullet {
+    background: #007bff; /* Warna aktif */
+    opacity: 0.7; /* Transparansi default */
+  }
+  
+  .custom-pagination .swiper-pagination-bullet-active {
+    opacity: 1; /* Transparansi aktif */
+  }
